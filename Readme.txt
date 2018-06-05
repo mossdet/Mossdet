@@ -1,6 +1,6 @@
 MOSDET Readme
 
-For any questions please contact us at mosdet.detectors@gmail.com.
+For any questions please contact us at mossdet.detector@gmail.com.
 
 Installation instructions:
 
