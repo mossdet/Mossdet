@@ -1,5 +1,5 @@
 # Mossdet
-MOSDET Readme
+MOSSDET Readme
 
 For any questions please contact us at daniel.lachner@uniklinik-freiburg.de.
 
