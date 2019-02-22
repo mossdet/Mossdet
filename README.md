@@ -6,7 +6,7 @@ For any questions please contact us at daniel.lachner@uniklinik-freiburg.de.
 Instructions:
 
 1.Copy these files to the same folder
-	- MOSDET.exe 
+	- MOSSDET.exe 
 	- svm_ripple.dat
 	- svm_fr.dat
 	- svm_ies.dat
