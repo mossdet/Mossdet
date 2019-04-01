@@ -6,7 +6,7 @@ For any questions please contact us at daniel.lachner@uniklinik-freiburg.de.
 Instructions:
 
 1.Copy these files to the same folder
-	- MOSSDET.exe 
+	- MOSSDET_2.0.exe 
 	- svm_ripple.dat
 	- svm_fr.dat
 	- svm_ies.dat
@@ -27,3 +27,7 @@ User instructions:
 
 1. Currently only EDF files are allowed.
 2. The shortcut Ctrl+A selects all channels
+3. After MOSSDET 2.0, the following values have been made configurable:
+	- define length of the epochs being processed periodically
+	- select NUMA node to run MOSSDET
+	- define the percentage of the logical processors to be used to run MOSSDET
